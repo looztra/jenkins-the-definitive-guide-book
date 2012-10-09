@@ -96,41 +96,41 @@
 
     <variablelist>
       <varlistentry>
-        <term>Italic</term>
+        <term>Italique</term>
 
         <listitem>
-          <para>Utilisé pour les noms de fichiers, extensions de fichiers,
+          <para>Utilisée pour les noms de fichiers, extensions de fichiers,
           URLs, noms d'applications, emphases et les nouveaux termes lorsqu'ils
           sont introduits pour la première fois.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term><literal moreinfo="none">Largeur constante</literal></term>
+        <term><literal moreinfo="none">Chasse fixe</literal></term>
 
         <listitem>
-          <para>Utilisé pour les noms de classes Java, les méthodes, variables,
+          <para>Utilisée pour les noms de classes Java, les méthodes, variables,
           propriétés, types de données, éléments de base de données et
           extraits de code apparaissant dans le texte.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term><userinput moreinfo="none">Largeur constante en
+        <term><userinput moreinfo="none">Chasse fixe en
         gras</userinput></term>
 
         <listitem>
-          <para>Utilisé pour les commandes à entrer dans la ligne de commande
+          <para>Utilisée pour les commandes à entrer dans la ligne de commande
           et pour mettre en valeur du code nouveau introduit dans un exemple
           fonctionnel.</para>
         </listitem>
       </varlistentry>
 
       <varlistentry>
-        <term><replaceable>Largeur constante en italique</replaceable></term>
+        <term><replaceable>Chasse fixe en italique</replaceable></term>
 
         <listitem>
-          <para>Utilisé pour annoter la sortie.</para>
+          <para>Utilisée pour annoter la sortie.</para>
         </listitem>
       </varlistentry>
     </variablelist>
