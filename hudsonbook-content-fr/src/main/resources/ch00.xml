@@ -173,7 +173,7 @@ drwxr-xr-x   28 johnsmart  staff    952 26 May  2009 war</screen>
 &gt; | sudo apt-key add -</screen>
 
     <para>Pour des raisons de cohérence, à moins que nous ne traitions une
-    question spécique à Windows, nous utiliserons des invites de commande de
+    question spécifique à Windows, nous utiliserons des invites de commande de
     style Unix (le signe dollar, “$”), comme montré ici :</para>
 
     <screen format="linespecific">$ java -jar jenkins.war</screen>
