@@ -210,10 +210,10 @@ drwxr-xr-x   28 johnsmart  staff    952 26 May  2009 war</screen>
             id="I_indexterm_d1e295" significance="normal">
             <primary>Goldin, Evgeny (contributeur)</primary>
           </indexterm> un ingénieur logiciel né en Russie vivant en Israël. Il
-        est lead developer chez Thomson Reuters où il est responsable d'un
+        est <emphasis>lead developer</emphasis> chez Thomson Reuters où il est responsable d'un
         certain nombre d'activités, dont certaines sont directement liées à
         Maven, Groovy, et des outils de build comme Artifactory et Jenkins. Il
-        possède une vaste expérience d'un panel assez large de technologies,
+        possède une vaste expérience dans un panel assez large de technologies,
         dont Perl, Java, JavaScript et Groovy. Les outils de build et les
         langages dynamiques sont les sujets favoris de Evgeny, à propos
         desquels il écrit, présente ou bloggue souvent. Il écrit actuellement
@@ -239,14 +239,14 @@ drwxr-xr-x   28 johnsmart  staff    952 26 May  2009 war</screen>
         développement logiciel d'entreprise, l'éducation open source, et
         co-fondateur de LLC, une entreprise de consulting de Denver. Matthew
         est actuellement formateur pour GitHub.com, auteur de la série Git
-        Master Class pour O’Reilly, speaker à plus de 30 conférences
+        Master Class pour O’Reilly, conférencier à plus de 30 conférences
         nationales et internationales, auteur de 3 des 10 plus importantes
         RefCards DZone, et président du Groupe Utilisateur d'Open Source de
         Denver. Ses sujets de recherche sont aujourd'hui concentrés autour de
         l'automatisation de projet : outils de build (Maven, Leiningen,
         Gradle), contrôle de version distribué (Git), Intégration Continue
         (Jenkins) et les métriques de qualité (Sonar). Matthew réside à
-        Denver, dans le Colorado avec sa magnifique femme et ses deux jeunes
+        Denver, dans le Colorado, avec sa magnifique femme et ses deux jeunes
         filles, qui sont actives dans pratiquement toutes les activités
         d'extérieur que le Colorado puisse offrir.</para>
 
@@ -257,8 +257,8 @@ drwxr-xr-x   28 johnsmart  staff    952 26 May  2009 war</screen>
       <listitem>
         <para><emphasis role="bold">Juven Xu</emphasis> est <indexterm
             id="I_indexterm_d1e332" significance="normal">
-            <primary>Xu, Juven (contributor)</primary>
-          </indexterm>un ingénieur logiciel de Chine travaillant pour
+            <primary>Xu, Juven (contributeur)</primary>
+          </indexterm>un ingénieur logiciel venant de Chine qui travaille pour
         Sonatype. Membre actif de la communauté open source et expert Maven
         reconnu, Juven était responsable de la traduction chinoise de
         <emphasis>Maven: The Definitive Guide</emphasis> et aussi d'un livre
