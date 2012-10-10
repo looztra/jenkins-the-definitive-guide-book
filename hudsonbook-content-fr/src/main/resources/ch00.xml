@@ -331,11 +331,11 @@ drwxr-xr-x   28 johnsmart  staff    952 26 May  2009 war</screen>
 
       <para>Wakaleo aide les entreprises avec des formations et de
       l'assistance dans des domaines comme l'Intégration Continue,
-      l'automatisation de build, le développement guidé par les tests, le test
-      Web automatisé et le code propre, en utilisant des outils open source
+      l'automatisation de build, le développement guidé par les tests, les tests
+      Web automatisés et le code propre, en utilisant des outils open source
       tels que Maven, Jenkins, Selenium 2 et Nexus. Wakaleo Consulting donne
       aussi des formations publiques et sur site autour de l'Intégration
-      Continue and le Déploiement Continu, l'automatisation de build, les
+      Continue et le Déploiement Continu, l'automatisation de build, les
       pratiques de codage propre, le développement guidé par les tests (TDD)
       et le Behavior-Driven Development, incluant des cours Certified Scrum
       Developer (CSD).</para>
@@ -368,7 +368,7 @@ drwxr-xr-x   28 johnsmart  staff    952 26 May  2009 war</screen>
       souhaitez — pas de gros investissements dès le début dans vos serveurs de
       build, plus de capacités limitées pour vos builds et plus de soucis de
       maintenance. Une fois qu'une application est prête à partir, vous pouvez
-      la déployer sur l'offre Platform As A Service CloudBees RUN@cloud en
+      la déployer sur l'offre Platform as a Service CloudBees RUN@cloud en
       seulement quelques clics.</para>
 
       <para>Avec les services CloudBees DEV@cloud et RUN@cloud, vous n'avez
